@@ -1,7 +1,7 @@
 {
-  "name": "basic-demo",
-  "version": "1.0.0",
-  "description": "Shows how to form self-contained components with their own state and user interaction.",
+  "name": "mpv-rtf",
+  "version": "0.0.1",
+  "description": "master plan visualizer - collection of unit tests.",
   "keywords": [
     "interaction",
     "pointer-events"

@@ -17,9 +17,6 @@
     "three": "0.148.0"
   },
   "devDependencies": {
-    "@theatre/core": "0.5",
-    "@theatre/r3f": "0.5",
-    "@theatre/studio": "0.5",
     "leva": "^0.9.34"
   },
   "scripts": {
